@@ -1,0 +1,12 @@
+.displayContainer_1 {
+    margin: -8px;
+    float: left;
+    padding: 0;
+    width: 40%;    
+    background: linear-gradient(to top, #00ffff 0%, #ff0066 100%);
+}
+.displayContainer_1 svg path:hover {
+    fill:none;
+    stroke:black;
+    pointer-events:all;
+}
